@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\bin\Debug\net7.0\HÜ StringFunktionen.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\bin\Debug\net7.0\HÜ StringFunktionen.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\bin\Debug\net7.0\HÜ StringFunktionen.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\bin\Debug\net7.0\HÜ StringFunktionen.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\bin\Debug\net7.0\HÜ StringFunktionen.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\refint\HÜ StringFunktionen.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\HÜ StringFunktionen.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ StringFunktionen\obj\Debug\net7.0\ref\HÜ StringFunktionen.dll
