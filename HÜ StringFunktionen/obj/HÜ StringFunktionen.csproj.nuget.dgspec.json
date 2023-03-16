@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj": {}
+    "C:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj": {}
   },
   "projects": {
-    "c:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj": {
+    "C:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj",
+        "projectUniqueName": "C:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj",
         "projectName": "HÜ StringFunktionen",
-        "projectPath": "c:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj",
+        "projectPath": "C:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\HÜ StringFunktionen.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\obj\\",
+        "outputPath": "C:\\Users\\david\\OneDrive\\Dokumente\\HTL\\Programmieren\\HÜ StringFunktionen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"

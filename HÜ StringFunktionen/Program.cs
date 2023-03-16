@@ -20,7 +20,7 @@ int IndexOf(string input, char j, int index)
     for (int i = 0; i < input.Length; i++)
     {
         if (input[i] == j) { index = i; break; }
-        else if (!(input.Contains(j))) {index = -1;}
+        else if (!(Contains(input, j))) {index = -1;}
 
     }
 
@@ -34,7 +34,7 @@ int LastIndexOf(string input, char j, int index)
      for (int i = 0; i < input.Length; i++)
     {
         if (input[i] == j) { index = i; }
-        else if (!(input.Contains(j))) {index = -1;}
+        else if (!(Contains(input, j))) {index = -1;}
 
     }
 
